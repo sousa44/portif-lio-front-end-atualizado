@@ -66,7 +66,7 @@ Durante o desenvolvimento deste projeto, foram aplicados conceitos importantes c
 ---
 
 ##  Preview do Projeto
-
+<img src="portifólioInterface.png"/>
 
 
 ##  Como Executar o Projeto
